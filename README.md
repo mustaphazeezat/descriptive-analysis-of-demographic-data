@@ -1,4 +1,4 @@
-# Descriptive-analysis-of-demographic-data
+# Descriptive analysis of demographic data
 
 Earlier demography research had suggested that no country in the world had life ex-
 pectancy of more than 40 years, almost all of the world was relatively poor with little to
